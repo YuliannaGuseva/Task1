@@ -9,6 +9,7 @@ int main(int argc, char **argv)
 
     askname(first, last);
     
-    printf("Hello Julianna", first, last);
+    printf("Hello Anton", first, last);
+   
     return 0;
 }
